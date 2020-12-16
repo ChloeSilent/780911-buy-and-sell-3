@@ -20,6 +20,9 @@
   "homepage": "https://github.com/ChloeSilent/780911-buy-and-sell-3#readme",
   "devDependencies": {
     "eslint": "7.15.0",
-    "eslint-config-htmlacademy": "0.6.0"
+    "eslint-config-htmlacademy": "0.6.0",
+    "eslint-config-prettier": "^7.0.0",
+    "prettier": "^2.2.1",
+    "prettier-check": "^2.0.0"
   }
 }
