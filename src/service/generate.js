@@ -86,7 +86,7 @@ const createMockArray = (numb) => {
 };
 
 const generate = (input) => {
-  let mockArr = [];
+  let mockArr;
 
   if (Number(input) && input.trim() !== "") {
     if (Number.parseInt(input, 10) > 1000) {
